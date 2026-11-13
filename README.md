@@ -5,9 +5,9 @@ An end-to-end machine learning pipeline engineered for the City of Kelowna / Res
 ---
 
 ## 👥 Team Members & Responsibilities
-- **Denis Rotaru**: End-to-end Python pipeline development, data cleaning, feature engineering, and model training architecture.
-- **Partner 1**: Exploratory Data Analysis (EDA), target distribution profiling, and report documentation.
-- **Partner 2**: Presentation deck assembly, performance metric logging, and GitHub repository maintenance.
+- **Denis Rotaru - Team Lead**: End-to-end Python pipeline development, data cleaning, feature engineering, and model training architecture.
+- **Michael Janzen - Technical Reporting**: Exploratory Data Analysis (EDA), target distribution profiling, and report documentation.
+- **Geyser Amani - Course Theory Validator**: Presentation deck assembly, performance metric logging, and GitHub repository maintenance.
 
 ---
 
@@ -55,3 +55,11 @@ flowchart TD
     class D,E,E1,E2,F process;
     class G1,G2,H,I model;
     class J,K evaluation;
+```
+
+## ▶️ Running Instructions
+- **Denis Rotaru**: End-to-end Python pipeline development, data cleaning, feature engineering, and model training architecture.
+
+## 📝 Summary of Results and Reflection
+- **Denis Rotaru**: End-to-end Python pipeline development, data cleaning, feature engineering, and model training architecture.
+
