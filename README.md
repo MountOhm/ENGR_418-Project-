@@ -1,3 +1,24 @@
+# ENGR 418 Final Project: Advanced Housing Price Prediction Pipeline
+
+An end-to-end machine learning pipeline engineered for the City of Kelowna / Residential Valuation, utilizing rigorous data preprocessing, informative missingness analysis, and regression modeling built on an 80-column feature set.
+
+---
+
+## 👥 Team Members & Responsibilities
+- **Denis Rotaru**: End-to-end Python pipeline development, data cleaning, feature engineering, and model training architecture.
+- **Partner 1**: Exploratory Data Analysis (EDA), target distribution profiling, and report documentation.
+- **Partner 2**: Presentation deck assembly, performance metric logging, and GitHub repository maintenance.
+
+---
+
+## 🎯 Project Goals & Scope
+- **Objective:** Move beyond basic tabular models by implementing a production-grade machine learning workflow for real estate valuation.
+- **Key Challenges Addressed:** Handling high-dimensional data (80 columns), analyzing informative missingness rather than blindly dropping sparse features, and mitigating multicollinearity.
+- **Deliverables:** A fully reproducible Google Colab notebook workflow, an automated preprocessing pipeline (`ColumnTransformer`), and an interactive model testing sandbox.
+
+---
+
+## 📊 Project Architecture & Pipeline
 ```mermaid
 flowchart TD
     %% Styling
