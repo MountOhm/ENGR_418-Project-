@@ -1,6 +1,4 @@
 ```mermaid
-
-
 flowchart TD
     %% Styling
     classDef data fill:#e1f5fe,stroke:#039be5,stroke-width:2px,color:#01579b;
@@ -36,7 +34,3 @@ flowchart TD
     class D,E,E1,E2,F process;
     class G1,G2,H,I model;
     class J,K evaluation;
-
-```mermaid
-flowchart TD
-...
